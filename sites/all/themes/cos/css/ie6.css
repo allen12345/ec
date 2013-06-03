@@ -1,0 +1,10 @@
+.add-to-cart .node-add-to-cart {
+color: #b7b7b7;
+font-size: 0px;
+text-align: left;
+}
+
+.product_options h2.price strong .product-info, .product_options h2.price strong .uc-price-product {
+margin-right: 90px;
+margin-top: -20px;
+}

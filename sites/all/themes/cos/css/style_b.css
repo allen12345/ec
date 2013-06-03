@@ -1,0 +1,182 @@
+
+a {
+	color: #0072bc;
+}
+
+div.logo a {
+	background: url(../images/website-logo_b.gif) no-repeat left top;
+}
+
+#search {
+	background: url(../images/search_bg_b.png) no-repeat right bottom;
+}
+
+#search input {
+	background: url(../images/search-input_btn_b.png) no-repeat left top;
+}
+#search input.button {
+	background: #0072bc url(../images/search_btn_b.png) no-repeat left top;
+}
+
+.basket {
+	background: url(../images/basket_bg_b.png) no-repeat left bottom;
+}
+.basket a {
+	background: url(../images/shopping-basket_bg_b.gif) no-repeat left top;
+}
+
+#main_nav {
+	background: #f6f6f6 url(../images/main_nav_bg_b.gif) repeat-x left top;
+}
+
+.user_nav {
+	background: url(../images/user-nav_bg_b.png) no-repeat left top;
+}
+
+.content {
+	background: url(../images/content_bg_b.png) repeat-x left bottom;
+}
+
+.product_menu h2 {
+	background: #d7d7d7 url(../images/productmenu-h1-bg_b.png) no-repeat left top;
+}
+
+.newsletter_box h2 {
+	color: #0072bc;
+}
+
+.newsletter_box form input {
+	background: url(../images/newsletter_input_shade_b.gif) no-repeat left top;
+}
+
+.newsletter_box form input.button, .newsletter_box form input.form-submit {
+	background: #fff url(../images/newsletter_btn-bg_b.gif) repeat-x left bottom;
+}
+
+#myController {
+	background: #e9e9e9 url(../images/myController_bg_b.gif) repeat-x left top;
+}
+
+.collection_name a, .collection_name a:hover {
+	color: #FFF;
+}
+
+.collection_name a strong, .collection_name a:hover strong {
+	color: #0072bc;
+}
+
+#myController span {
+	background: url(../images/jFlowControl_bg_b.gif) no-repeat center top;
+}
+
+#myController span.jFlowSelected {
+	background: url(../images/jFlowControl-hover_bg_b.gif) no-repeat center top;
+}
+
+.products_box h2.box_title a, .products_box h2.box_title a:hover {
+	color: #0072bc;
+}
+
+.products_content {
+	background: url(../images/products_box_bg_b.gif) repeat-x left top;
+}
+
+.featured h2.box_title {
+	background: #00aeef url(../images/featured-box_bg_b.gif) repeat-x left bottom;
+}
+
+.featured h2.box_title a, .featured h2.box_title a:hover {
+	background: url(../images/featured-browse-btn-right_b.gif) no-repeat right top;
+}
+
+.featured h2 a span, .featured h2 a:hover span {
+	background: url(../images/featured-browse-btn-left_b.gif) no-repeat left top;
+}
+
+.featured .products_content {
+	background: url(../images/featured-box-bottom_bg_b.gif) repeat-x left bottom;
+}
+
+.featured .top_gradient {
+	background: url(../images/featured-box-top_bg_b.gif) repeat-x left top;
+}
+
+.product_guide {
+	background: url(../images/product_guide_bg_b.png) no-repeat left bottom;
+}
+
+.product_guide h2.box_title {
+	background: url(../images/product_guide_headline_bg_b.png) no-repeat left top;
+}
+
+.store_locator {
+	background: url(../images/store-locator_bg_b.png) no-repeat left top;
+}
+
+ul.page_nav li a {
+	background: url(../images/page_nav-btn_bg_b.gif) repeat-x left bottom;
+}
+
+ul.page_nav li a:hover {
+	color: #0072bc;
+	background: url(../images/page_nav-btn-hover_bg_b.gif) repeat-x left bottom;
+}
+
+.in_stock span{
+	background:#00AEEF url(../images/product_status_blue_b.gif) repeat-y left top;
+}
+
+ .not_available span {
+	background: #ed1c24 url(../images/product_status_red_b.gif) repeat-y left top;
+}
+
+.not_available span {
+	background: #b1b1b1 url(../images/product_status_gray_b.gif) repeat-y left top;
+}
+
+.product_options {
+	background: url(../images/product_options_bg_b.gif) repeat-x;
+}
+
+.help_icon {
+	background: url(../images/help_icon_b.gif) no-repeat 16px 10px;
+}
+
+a.silver_btn, a.silver_btn:hover {
+	background: #fff url(../images/silver-btn_bg_b.gif) repeat-x left bottom;
+}
+
+.image_options {
+	background: #d2161e url(../images/image_options_bg_b.gif) repeat-x left top;
+}
+
+#toggler span {
+	background: url(../images/silver-btn-gallery_icon_b.gif) no-repeat left 4px;
+}
+
+#prev_button span {
+	background: url(../images/silver-btn-left-arrow_b.gif) no-repeat left 6px;
+}
+#next_button span {
+	background: url(../images/silver-btn-right-arrow_b.gif) no-repeat right 6px;
+}
+
+#thumbs_container {
+	background: url(../images/thumbs_container-bg_b.gif) no-repeat left top;
+}
+
+.close, .close:hover {
+	background: url(../images/close_icon_b.gif) no-repeat left center;
+}
+
+.basket_list .price strong {
+	color: #0072BC;
+}
+
+input.silver_btn {
+	background: #fff url(../images/silver-btn_bg_b.gif) repeat-x left bottom;
+}
+
+.basket_list input.quantity {
+	background: url(../images/newsletter_input_shade_b.gif) no-repeat left top;
+}

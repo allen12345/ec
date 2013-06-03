@@ -1,0 +1,12 @@
+
+.jqTransformSelectWrapper {
+	background: url(../images/jstransform/select_left_p.gif) no-repeat top left;
+}
+
+.jqTransformSelectWrapper  a.jqTransformSelectOpen {
+	background: url(../images/jstransform/select_right_p.gif) no-repeat center center;
+}
+
+.jqTransformSelectWrapper ul {
+	overflow-y: auto;
+}

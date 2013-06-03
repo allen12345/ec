@@ -1,0 +1,1 @@
+<span class="collection_name"><a href="<?php print url('node/'.$fields['nid']->content); ?>"><?php print $fields['title']->content; ?> <strong><span class="r"><?php print ''.$fields['commerce_price']->content.''; ?></span></strong></a></span><?php print $fields['field_image']->content; ?>

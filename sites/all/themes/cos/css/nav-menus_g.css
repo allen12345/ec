@@ -1,0 +1,61 @@
+
+#nav li a.top_link span.down { 
+	background: url(../images/main_nav_dir-arrow_g.gif) no-repeat right 14px; 
+}
+
+#nav li:hover a.top_link { 
+	background: url(../images/main_nav-hover_bg_g.gif) repeat-x left top; 
+}
+
+#nav li:hover a.top_link span.down { 
+	background: url(../images/main_nav_dir-arrow_g.gif) no-repeat right 14px; 
+}
+
+#nav li:hover ul.sub li a:hover {
+	color: #8dc63f;
+	background: url(../images/main_nav-secitem_bg_g.gif) repeat-x left;
+}
+
+#prod_nav li a.top_link span, #prod_nav li a.top_link span.down {
+	background: url(../images/productmenu-arrow_g.gif) no-repeat right center;
+}
+
+#prod_nav li:hover a.top_link {
+	color:#8dc63f;
+}
+
+#prod_nav li:hover a.top_link span, #prod_nav li:hover a.top_link span.down { 
+	background: url(../images/productmenu-arrow-hover_g.gif) no-repeat right center; 
+}
+
+#prod_nav li:hover ul.sub {
+	background: #fff url(../images/productmenu-leftborder_g.gif) no-repeat left top;
+}
+
+#prod_nav li:hover ul.sub li {
+	background: url(../images/productmenu-section-bg_g.png) no-repeat right bottom;
+}
+
+#prod_nav li:hover ul.sub ul {
+	padding-right: 20px;
+}
+
+#prod_nav li:hover ul.sub ul li {
+	margin-right: 20px;
+}
+
+#prod_nav li:hover ul.sub li a:hover {
+	color: #8dc63f;
+}
+
+.customer_nav {
+	background: #8dc63f;
+}
+
+.customer_nav h2{
+	background: url(../images/customer_nav_bg_g.gif) repeat-x left bottom;
+}
+
+.customer_nav ul li {
+	border-bottom: 1px solid #a4d165;
+}
